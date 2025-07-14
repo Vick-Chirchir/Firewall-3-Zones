@@ -49,7 +49,7 @@ WAN simulation between HQ and the branch
 
 <p align="center">
 Network Design: <br/>
-<img src="https://i.imgur.com/7GNSrpg.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mpbOknq.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 DHCP Server Config on the Router(Router 1):  <br/>
