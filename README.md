@@ -52,36 +52,36 @@ Network Design: <br/>
 <img src="https://i.imgur.com/mpbOknq.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-DHCP Server Config on the Router(Router 1):  <br/>
-<img src="https://i.imgur.com/okCHFdZ.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
+Cisco ASA Firewall Configuration Part1  <br/>
+<img src="https://i.imgur.com/GqvsJHA.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Interface Config with Loopback interface as the IP address to the DHCP Server: <br/>
-<img src="https://i.imgur.com/8QABK5s.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
+Cisco ASA Firewall Configuration Part2 <br/>
+<img src="https://i.imgur.com/5e1tbsy.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Router Configuration (Router 2) using (ip helper-address):  <br/>
-<img src="https://i.imgur.com/uH3Mw58.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
+DHCP Server Configuration (DMZ-Server-Zone 1):  <br/>
+<img src="https://i.imgur.com/2ajOF3X.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Router Configuration (Router 2) using (ip helper-address):  <br/>
-<img src="https://i.imgur.com/uH3Mw58.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
+Router R1 Configuration (Zone 3)  <br/>
+<img src="https://i.imgur.com/s4AjbdY.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Router Configuration (Router 2) using (ip helper-address):  <br/>
-<img src="https://i.imgur.com/uH3Mw58.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
+Router R2 Configuration (Zone 3)  <br/>
+<img src="https://i.imgur.com/8OadShl.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Router Configuration (Router 2) using (ip helper-address):  <br/>
-<img src="https://i.imgur.com/uH3Mw58.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
+Router R3 Configuration (Zone 3)  <br/>
+<img src="https://i.imgur.com/XYWi3rx.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Router Configuration (Router 2) using (ip helper-address):  <br/>
-<img src="https://i.imgur.com/uH3Mw58.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
+Verifying that PC-B(Zone 2-inside) can communicate to DMZ-server(Zone 1) and PC-C(Zone 3)  <br/>
+<img src="https://i.imgur.com/Q9FmgRB.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Verify Communication between Devices on both Sites:  <br/>
-<img src="https://i.imgur.com/wdv5L5x.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
+Verifying that PC-C(Zon 3-outside) cannot communicate to DMZ-server(Zone 1) and PC-B(Zone 2-inside)  <br/>
+<img src="https://i.imgur.com/gHMu4fr.png" style="width:80%; height:auto;" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 
